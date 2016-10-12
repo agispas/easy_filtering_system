@@ -1,0 +1,114 @@
+/*!
+*
+* Created by: Alexandru Giuseppe Ispas / outboxvision.co / twitter.com/agispas
+*
+*/
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+body {
+background: -webkit-linear-gradient(90deg, #16222A 10%, #3A6073 90%); /* Chrome 10+, Saf5.1+ */
+background:    -moz-linear-gradient(90deg, #16222A 10%, #3A6073 90%); /* FF3.6+ */
+background:     -ms-linear-gradient(90deg, #16222A 10%, #3A6073 90%); /* IE10 */
+background:      -o-linear-gradient(90deg, #16222A 10%, #3A6073 90%); /* Opera 11.10+ */
+background:         linear-gradient(90deg, #16222A 10%, #3A6073 90%); /* W3C */
+
+}
+h1,h2,h3,h4,h5,p,a {
+font-family: 'Open Sans', sans-serif;
+}
+.navbar-simple {
+background:none;
+border:none;
+}
+.navbar-header {
+margin-top:20px;
+}
+a.back {
+color:#fff;
+font-size:18px;
+}
+ul.sorting_list {
+list-style-type: none;
+padding-left:0;
+}
+ul.sorting_list li {
+color:white;
+}
+ul.options {
+list-style-type: none;
+padding-top:20px;
+padding-left:0;
+}
+ul.options li {
+display:inline-block;
+padding-right:20px;
+}
+ul.options li a {
+color:#fff;
+font-size:16px;
+}
+ul.options li a:visited {
+border-bottom:2px solid #fff;
+}
+.portfolio-item {
+margin-bottom: 25px;
+}
+.portfolio-item p {
+padding-top:40px;
+}
+footer {
+margin: 50px 0;
+}
+footer p {
+color:#fff;
+}
+header {
+padding-top:40px;
+padding-bottom:100px;
+}
+.page-header {
+border:none;
+}
+h1.page-header {
+font-size:64px;
+color:#fff;
+}
+h2.subtitle {
+font-size:32px;
+color:#fff;
+}
+.search-sort {
+padding-bottom:100px;
+}
+.search {
+float:left;
+position:relative;
+width:350px;
+margin-right:50px;
+}
+input#search {
+background:none;
+border:3px solid #fff;
+width:100%;
+padding:20px 20px 20px 50px;
+color:#fff;
+}
+span.search-icon {
+position:absolute;
+top:22px;
+left:22px;
+}
+::-webkit-input-placeholder {
+color: #fff;
+padding-left:10px;
+}
+:-moz-placeholder { /* Firefox 18- */
+color: #fff;
+padding-left:10px;
+}
+::-moz-placeholder {  /* Firefox 19+ */
+color: #fff;
+padding-left:10px;
+}
+:-ms-input-placeholder {
+color: #fff;
+padding-left:10px;
