@@ -1,4 +1,4 @@
-# [Easy content filtering](http://agispas.com/easy-filtering-system) - [jQuery]()
+# [Easy content filtering](http://agispas.com/easy_filtering_system) - [jQuery]()
 
 Many times when I had to implement a live search and a filtering system, I had to use plugins which were way too extensive and bloated with tons of features and many pages of documentation. 
 There are plenty of plugins which will do these things, some of them are free and also widely supported, I’m not trying to show you just another filtering system.
@@ -68,4 +68,4 @@ Next we check if a link with a class name of “filter” is clicked we add to t
 We now have a fully functional filtering system with just few lines of code. You don’t have to add heavy weight plugins with tons of features if you just want something simple like this.
 That’s it! We have just built a quick and easy content filtering using a live search jQuery plugin.
 
-[Demo](http://agispas.com/easy-filtering-system)
+## [Demo](http://agispas.com/easy_filtering_system)
