@@ -1,10 +1,16 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [2 Col Portfolio](http://startbootstrap.com/template-overviews/2-col-portfolio/)
+# [Easy content filtering]() - [jQuery]()
 
-[2 Col Portfolio](http://startbootstrap.com/template-overviews/2-col-portfolio/) is a two column portfolio template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+Many times when I had to implement a live search and a filtering system, I had to use plugins which were way too extensive and bloated with tons of features and many pages of documentation. 
+There are plenty of plugins which will do these things, some of them are free and also widely supported, I’m not trying to show you just another filtering system.
 
-## Getting Started
+This is a  basic way to create a filtering system using a live search plugin with just few lines of code. 
 
-To use this template, choose one of the following options to get started:
+So, if you’re looking for a full list of features, functionalities, animations, event handlers, there are plugins which can do that, this article is not about that.
+
+### Let’s begin!
+
+We will use HideSeek which is a simple, yet customizable jQuery plugin for live search, is compatible with IE7+, Chrome, Firefox, Safari and jQuery 1.8.1, 1.9.1, 1.11.0, 2.1.0. and supports highlighting, custom message, navigation, initialization via data attribute and custom events.
+Configuring it is pretty simple, here’s the default usage: use this template, choose one of the following options to get started:
 * Download the latest release on Start Bootstrap
 * Fork this repository on GitHub
 
