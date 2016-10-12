@@ -11,8 +11,11 @@ So, if you’re looking for a full list of features, functionalities, animations
 
 We will use HideSeek which is a simple, yet customizable jQuery plugin for live search, is compatible with IE7+, Chrome, Firefox, Safari and jQuery 1.8.1, 1.9.1, 1.11.0, 2.1.0. and supports highlighting, custom message, navigation, initialization via data attribute and custom events.
 Configuring it is pretty simple, here’s the default usage: use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+```
+$(‘#search’).hideseek();
+
+```
+
 
 ## Bugs and Issues
 
